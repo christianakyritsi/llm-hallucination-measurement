@@ -40,4 +40,12 @@ from datasets import load_dataset
 df = load_dataset("belpekkan/emotion-framed-factual-qa")
 ```
 
-## 📁 Repo Structure
+## 🛠️ Tech Stack
+
+`Python` `HuggingFace Transformers` `TriviaQA` `GoEmotions` `sentence-transformers` `scipy` `pandas`
+
+## 👩‍💻 Authors
+
+Christiana Kyritsi · Beliz Pekkan · Geanina Verestiuc · Mariyana Shishmanova
+
+*Utrecht University — Transformers: Applications in Language and Communication, 2026*
